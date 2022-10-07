@@ -1,9 +1,11 @@
 # Health-Calculators
+- Fitness
+- Pregnancy
+- Other
 
-
-### Fitness
+## Fitness
 | Calculator                    | Goto     |
-| ------------------------------| -------- |
+| ----------------------------- | -------- |
 | BMI Calculator                |          |
 | Calorie Calculator            |          |
 | Body Fat Calculator           |          |
@@ -16,3 +18,26 @@
 | Healthy Weight Calculator     |          |
 | Calories Burned Calculator    |          |
 
+## Pregnancy
+| Calculator                    | Goto     |
+| ----------------------------- | -------- |
+| Pregnancy Calculator
+| Pregnancy Weight Gain Calculator
+| Pregnancy Conception Calculator
+| Due Date Calculator
+| Ovulation Calculator
+| Conception Calculator
+| Period Calculator
+
+## Other
+| Calculator                    | Goto     |
+| ----------------------------- | -------- |
+| Macro Calculator              |          |
+| Carbohydrate Calculator       |          |
+| Protein Calculator            |          |
+| Fat Intake Calculator         |          |
+| TDEE Calculator               |          |
+| GFR Calculator                |          |
+| Body Type Calculator          |          |
+| Body Surface Area Calculator  |          |
+| BAC Calculator                |          |
