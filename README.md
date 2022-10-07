@@ -5,23 +5,23 @@
 - Other Health Calculator
 
 ## Fitness
-| Calculator                    | Goto     |
-| ----------------------------- | -------- |
-| BMI Calculator                |          |
-| Calorie Calculator            |          |
-| Body Fat Calculator           |          |
-| BMR Calculator                |          |
-| Ideal Weight Calculator       |          |
-| Pace Calculator.              |          |
-| Army Body Fat Calculator      |          |
-| Weight Watcher Points Calculator |          |
-| Lean Body Mass Calculator     |          |
-| Healthy Weight Calculator     |          |
-| Calories Burned Calculator    |          |
+| Calculator                    | Goto     | Creator | Reviewed | Based on Research | Formula | 
+| ----------------------------- | -------- | ------- | -------- | ----------------- | ------- |
+| BMI Calculator                |          |                                                  |
+| Calorie Calculator            |          |                                                  |
+| Body Fat Calculator           |          |                                                  |
+| BMR Calculator                |          |                                                  |
+| Ideal Weight Calculator       |          |                                                  |
+| Pace Calculator.              |          |                                                  |
+| Army Body Fat Calculator      |          |                                                  |
+| Weight Watcher Points Calculator |          |                                               |
+| Lean Body Mass Calculator     |          |                                                  |
+| Healthy Weight Calculator     |          |                                                  |
+| Calories Burned Calculator    |          |                                                  |
 
 ## Pregnancy
-| Calculator                    | Goto     |
-| ----------------------------- | -------- |
+| Calculator                    | Goto     | Creator | Reviewed | Based on Research | Formula | 
+| ----------------------------- | -------- | ------- | -------- | ----------------- | ------- |
 | Pregnancy Calculator
 | Pregnancy Weight Gain Calculator
 | Pregnancy Conception Calculator
@@ -31,8 +31,8 @@
 | Period Calculator
 
 ## Other Health Calculator
-| Calculator                    | Goto     |
-| ----------------------------- | -------- |
+| Calculator                    | Goto     | Creator | Reviewed | Based on Research | Formula | 
+| ----------------------------- | -------- | ------- | -------- | ----------------- | ------- |
 | Macro Calculator              |          |
 | Carbohydrate Calculator       |          |
 | Protein Calculator            |          |
