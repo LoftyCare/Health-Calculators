@@ -1,7 +1,8 @@
 # Health-Calculators
-- Fitness
-- Pregnancy
-- Other
+
+- Fitness Calculator
+- Pregnancy Calculator
+- Other Health Calculator
 
 ## Fitness
 | Calculator                    | Goto     |
@@ -29,7 +30,7 @@
 | Conception Calculator
 | Period Calculator
 
-## Other
+## Other Health Calculator
 | Calculator                    | Goto     |
 | ----------------------------- | -------- |
 | Macro Calculator              |          |
